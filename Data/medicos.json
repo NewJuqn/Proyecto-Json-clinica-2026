@@ -2,11 +2,13 @@
   {
     "id": "10000",
     "nombre": "Juan",
-    "especialidad": "Dermatologo"
+    "especialidad": "Dermatologo",
+    "contrasena" : "123"
   },
   {
     "id": "10001",
     "nombre": "Pepe",
-    "especialidad": "Optometra"
+    "especialidad": "Optometra",
+    "contrasena" : "1234"
   }
 ]

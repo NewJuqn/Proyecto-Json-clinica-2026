@@ -1,7 +1,8 @@
 [
   {
-    "id": "1",
-    "nombre": "JuanJo",
-    "edad": 18
+    "id": 1,
+    "nombre": "JuanMo",
+    "edad": 19,
+    "contrasena": "1234"
   }
 ]
