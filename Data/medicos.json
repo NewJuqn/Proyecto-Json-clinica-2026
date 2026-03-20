@@ -1,0 +1,12 @@
+[
+  {
+    "id": "10000",
+    "nombre": "Juan",
+    "especialidad": "Dermatologo"
+  },
+  {
+    "id": "10001",
+    "nombre": "Pepe",
+    "especialidad": "Optometra"
+  }
+]
