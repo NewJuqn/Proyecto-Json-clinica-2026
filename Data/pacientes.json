@@ -1,8 +1,20 @@
 [
   {
     "id": 1,
-    "nombre": "JuanMo",
+    "nombre": "Juan",
+    "edad": 18,
+    "contrasena": "123"
+  },
+  {
+    "id": 1,
+    "nombre": "juan",
+    "edad": 29,
+    "contrasena": "123"
+  },
+  {
+    "id": 1,
+    "nombre": "juan",
     "edad": 19,
-    "contrasena": "1234"
+    "contrasena": "123"
   }
 ]
